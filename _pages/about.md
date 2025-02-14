@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student of computer science at Michigan State University, advised by Professor Jiliang Tang. Before that, I got my bachelor's degree in electrical and computer engineering from Shanghai Jiao Tong University in August 2023.
+Hello! I am currently a PhD student of computer science at Michigan State University, advised by Professor Jiliang Tang. Before that, I got my bachelor's degree in electrical and computer engineering from Shanghai Jiao Tong University in August 2023.
 My research interests lie in applying machine learning techniques to understand real-world complex networks.
 
 
