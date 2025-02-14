@@ -1,23 +1,17 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "https://liu-jingzhe.github.io/personalpage/#about-me"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "https://liu-jingzhe.github.io/personalpage/#-publications"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "https://liu-jingzhe.github.io/personalpage/#-educations"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "https://liu-jingzhe.github.io/personalpage/#-invited-talks"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "https://liu-jingzhe.github.io/personalpage/#-internships"
 
-   <!-- - title: "News"
-    url: "/#-news"
-    
-    - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
- -->
